@@ -248,7 +248,7 @@ export default function Landing() {
                     variant="contained"
                     color="primary"
                     wideMobile
-                    href="https://github.com/NarayanBavisetti/banking-system"
+                    href=""
                   >
                     View on Github
                   </Button>
@@ -261,9 +261,7 @@ export default function Landing() {
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center lg:-mt-64 -mt-48">
               <div className="w-full lg:w-6/12 px-4">
-                <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-gray-300">
-                  <YouTube videoId="SOjtNcllRr0" />
-                </div>
+                
               </div>
             </div>
           </div>
