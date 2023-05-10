@@ -248,7 +248,7 @@ export default function Landing() {
                     variant="contained"
                     color="primary"
                     wideMobile
-                    href=""
+                    href="https://github.com/roshan-2501/Internet-banking-website-using-MERN-Stack"
                   >
                     View on Github
                   </Button>
